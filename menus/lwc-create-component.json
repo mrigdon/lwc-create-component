@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle lwc-create-component",
+        "command": "lwc-create-component:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lwc-create-component",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "lwc-create-component:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-shift-c": "lwc-create-component:toggle"
+  }
+}
